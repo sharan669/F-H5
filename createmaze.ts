@@ -6,6 +6,11 @@ import Wall from './wall';
 import IMazeFactory from './imazefactory';
 
 function createMaze(factory : IMazeFactory): Maze {
+  const Fasd;
+  const gdfgd;
+  const dkfdf;
+  const LSOF;
+ 
   // Create rooms.
   var aMaze = factory.makeMaze();
   var r1 = factory.makeRoom();
